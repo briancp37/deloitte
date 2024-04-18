@@ -17,5 +17,12 @@ To run this Streamlit app locally, follow these steps:
 
 3. **Run Streamlit App**
     ```bash
-    streamlit run your_script.py
+    streamlit run app.py
     ```
+
+
+
+
+
+
+

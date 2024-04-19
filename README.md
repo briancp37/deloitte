@@ -1,5 +1,9 @@
 # Deloitte
 
+## Preview
+This is packaged as a streamlit app, but a pdf of the static website is available in the "Streamlit - Brian Pennington.pdf" file.
+
+
 ## Setup Instructions
 
 To run this Streamlit app locally, follow these steps:
